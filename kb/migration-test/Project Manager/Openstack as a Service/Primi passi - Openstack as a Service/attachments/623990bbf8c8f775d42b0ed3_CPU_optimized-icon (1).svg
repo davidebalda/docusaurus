@@ -1,0 +1,31 @@
+<svg id="CPU_optimized-icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="96" height="96" viewBox="0 0 96 96">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-1.25" y1="0.5" x2="1.079" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff0068"/>
+      <stop offset="1" stop-color="#ff0068" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect id="Mask" width="96" height="96" fill="none"/>
+  <g id="CPU_optimized-icon-2" data-name="CPU_optimized-icon" transform="translate(12.275 7.639)">
+    <g id="Filled" transform="translate(-3.229 -4.639)">
+      <path id="Polygon_28" data-name="Polygon 28" d="M61.5,0,82,34.926,61.5,69.852h-41L0,34.926,20.5,0Z" transform="translate(69.879 0) rotate(90)" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="Outline" transform="translate(4.771 3.361)">
+      <line id="Line_74" data-name="Line 74" y1="39.292" transform="translate(34.957 41.427)" fill="none" stroke="#00003a" stroke-width="1.7"/>
+      <path id="Path_1745" data-name="Path 1745" d="M33.731,20.042-.175.044" transform="translate(1.654 21.385)" fill="none" stroke="#00003a" stroke-width="1.7"/>
+      <path id="Path_1744" data-name="Path 1744" d="M0,20.313,33.866.264" transform="translate(34.528 21.114)" fill="none" stroke="#00003a" stroke-width="1.7"/>
+      <g id="Polygon_17" data-name="Polygon 17" transform="translate(69.879 0) rotate(90)" fill="none">
+        <path d="M61.5,0,82,34.926,61.5,69.852h-41L0,34.926,20.5,0Z" stroke="none"/>
+        <path d="M 21.47339248657227 1.699996948242188 L 1.971206665039062 34.92592620849609 L 21.47338104248047 68.15185546875 L 60.52661895751953 68.15185546875 L 80.02879333496094 34.92592620849609 L 60.52661895751953 1.699996948242188 L 21.47339248657227 1.699996948242188 M 20.5000114440918 0 L 61.5 0 L 82 34.92592620849609 L 61.5 69.85185241699219 L 20.5 69.85185241699219 L 0 34.92592620849609 L 20.5000114440918 0 Z" stroke="none" fill="#00003a"/>
+      </g>
+      <g id="Polygon_26" data-name="Polygon 26" transform="translate(61.219 10.732) rotate(90)" fill="none">
+        <path d="M45.4,0,60.536,25.784,45.4,51.568H15.134L0,25.784,15.134,0Z" stroke="none"/>
+        <path d="M 16.10742568969727 1.699993133544922 L 1.971210479736328 25.78391456604004 L 16.10741424560547 49.86782455444336 L 44.42871856689453 49.86782455444336 L 58.56493377685547 25.78391456604004 L 44.42871856689453 1.699993133544922 L 16.10742568969727 1.699993133544922 M 15.13404083251953 -3.814697265625e-06 L 45.40210342407227 -3.814697265625e-06 L 60.53614044189453 25.78391456604004 L 45.40210342407227 51.56782531738281 L 15.134033203125 51.56782531738281 L 3.814697265625e-06 25.78391456604004 L 15.13404083251953 -3.814697265625e-06 Z" stroke="none" fill="#00003a"/>
+      </g>
+      <g id="Polygon_27" data-name="Polygon 27" transform="translate(50.733 22.501) rotate(90)" fill="none">
+        <path d="M27.749,0,37,15.759l-9.25,15.759H9.25L0,15.759,9.25,0Z" stroke="none"/>
+        <path d="M 10.2230224609375 1.700004577636719 L 1.971210479736328 15.75864410400391 L 10.2230224609375 29.81728363037109 L 26.77553558349609 29.81728363037109 L 35.02734756469727 15.75864410400391 L 26.77553558349609 1.700004577636719 L 10.2230224609375 1.700004577636719 M 9.249639511108398 3.814697265625e-06 L 27.74892044067383 3.814697265625e-06 L 36.99855804443359 15.75864410400391 L 27.74892044067383 31.51728439331055 L 9.249639511108398 31.51728439331055 L 0 15.75864410400391 L 9.249639511108398 3.814697265625e-06 Z" stroke="none" fill="#00003a"/>
+      </g>
+    </g>
+  </g>
+</svg>

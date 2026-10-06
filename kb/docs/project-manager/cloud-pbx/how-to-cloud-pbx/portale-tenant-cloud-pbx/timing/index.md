@@ -1,0 +1,5 @@
+---
+title: "Timing"
+---
+
+Questo menù vi permetterà di gestire delle regole temporali che potrete applicare all'instradamento delle chiamate in ingresso oppure alle extensions per permettegli di ricevere/fare chiamate.

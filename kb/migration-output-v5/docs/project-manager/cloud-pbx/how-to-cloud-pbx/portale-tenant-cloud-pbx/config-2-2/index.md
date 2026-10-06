@@ -1,0 +1,5 @@
+---
+title: "Config (2) (2)"
+---
+
+In questo menù è possibile gestire alcune configurazioni che verranno utilizzate da altri moduli presenti nel ClouPBX, in particolare i messaggi audio, i gruppi di risposta e l'auto-provisioning dei telefoni:

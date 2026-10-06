@@ -1,0 +1,18 @@
+---
+title: "Flavor - Compatibilità Migrazione"
+---
+
+La seguente matrice ha il compito di evidenziare le compatibilità tra flavor differenti e le eventuali azioni di migrazione da effettuare per passare da una tipologia all’altra di flavor.  
+Nei casi in cui non è possibile una
+
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+| **Source/ Destination** | **C2** | **C2S** | **G2** | **G2S** |
+| **C2S** | **NO.**  <br>É necessario seguire questa guida [Procedura Backup flavor G2/C2 e Resize da flavor G2/C2 a G2S/C2S (e viceversa)](https://cloudfireit.atlassian.net/l/cp/nvz0epqq) | **SI (prevede il riavvio della VM)** | **NO.**  <br>É necessario seguire questa guida [Procedura Backup flavor G2/C2 e Resize da flavor G2/C2 a G2S/C2S (e viceversa)](https://cloudfireit.atlassian.net/l/cp/nvz0epqq) | **SI (prevede il riavvio della VM)** |
+| **G2S** | **NO.**  <br>É necessario seguire questa guida [Procedura Backup flavor G2/C2 e Resize da flavor G2/C2 a G2S/C2S (e viceversa)](https://cloudfireit.atlassian.net/l/cp/nvz0epqq) | **SI (prevede il riavvio della VM)** | **NO.**  <br>É necessario seguire questa guida [Procedura Backup flavor G2/C2 e Resize da flavor G2/C2 a G2S/C2S (e viceversa)](https://cloudfireit.atlassian.net/l/cp/nvz0epqq) | **SI (prevede il riavvio della VM)** |
+| **C2** | **SI (prevede il riavvio della VM)**<br><br>Se il disco Source è inferiore o uguale al disco | **NO.**  <br>É necessario seguire questa guida [Procedura Backup flavor G2/C2 e Resize da flavor G2/C2 a G2S/C2S (e viceversa)](https://cloudfireit.atlassian.net/l/cp/nvz0epqq) | **SI (prevede il riavvio della VM)**<br><br>Se il disco Source è inferiore o uguale al disco | **NO.**  <br>É necessario seguire questa guida [Procedura Backup flavor G2/C2 e Resize da flavor G2/C2 a G2S/C2S (e viceversa)](https://cloudfireit.atlassian.net/l/cp/nvz0epqq) |
+| **G2** | **SI (prevede il riavvio della VM)**<br><br>Se il disco Source è inferiore o uguale al disco | **NO.**  <br>É necessario seguire questa guida [Procedura Backup flavor G2/C2 e Resize da flavor G2/C2 a G2S/C2S (e viceversa)](https://cloudfireit.atlassian.net/l/cp/nvz0epqq) | **SI (prevede il riavvio della VM)**<br><br>Se il disco Source è inferiore o uguale al disco | **NO.**  <br>É necessario seguire questa guida [Procedura Backup flavor G2/C2 e Resize da flavor G2/C2 a G2S/C2S (e viceversa)](https://cloudfireit.atlassian.net/l/cp/nvz0epqq) |
+
+:::info
+Per tutti i **flavor legacy** (G1, R1, ecc…) la migrazione è possibile solo verso flavor di seconda generazione Scalable Storage, quindi **G2S** e **C2S**.
+:::

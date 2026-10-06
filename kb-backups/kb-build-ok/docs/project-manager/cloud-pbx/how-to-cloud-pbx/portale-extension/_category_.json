@@ -1,0 +1,10 @@
+{
+  "label": "Portale Extension",
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "title": "Portale Extension",
+    "slug": "/project-manager/cloud-pbx/how-to-cloud-pbx/portale-extension"
+  }
+}

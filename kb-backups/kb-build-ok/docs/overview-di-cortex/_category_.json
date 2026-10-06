@@ -1,0 +1,10 @@
+{
+  "label": "Overview di Cortex",
+  "position": 1,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "doc",
+    "id": "index"
+  }
+}

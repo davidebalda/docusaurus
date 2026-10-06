@@ -1,0 +1,11 @@
+
+> kb@0.0.0 build
+> docusaurus build
+
+[INFO] [it] Creating an optimized production build...
+[webpackbar] ℹ Compiling Client
+[webpackbar] ℹ Compiling Server
+[webpackbar] ✔ Server: Compiled successfully in 6.04s
+[webpackbar] ✔ Client: Compiled successfully in 9.55s
+[SUCCESS] Generated static files in "build".
+[INFO] Use `npm run serve` command to test your build locally.

@@ -1,0 +1,83 @@
+
+> kb@0.0.0 build
+> docusaurus build
+
+[INFO] [it] Creating an optimized production build...
+[webpackbar] ℹ Compiling Client
+[webpackbar] ℹ Compiling Server
+TypeError: unsupported file type: undefined
+    at imageSize (/Users/catalin/docu/kb/node_modules/image-size/dist/fromFile.cjs:1013:9)
+    at /Users/catalin/docu/kb/node_modules/image-size/dist/fromFile.cjs:1040:16
+    at async Promise.allSettled (index 0)
+    at async processQueue (/Users/catalin/docu/kb/node_modules/image-size/dist/fromFile.cjs:1047:3)
+[WARNING] The image at "/Users/catalin/docu/kb/static/kb-assets/942f53127e-dr-orchestration.mp4" can't be read correctly. Please ensure it's a valid image.
+unsupported file type: undefined
+TypeError: unsupported file type: undefined
+    at imageSize (/Users/catalin/docu/kb/node_modules/image-size/dist/fromFile.cjs:1013:9)
+    at /Users/catalin/docu/kb/node_modules/image-size/dist/fromFile.cjs:1040:16
+    at async Promise.allSettled (index 0)
+    at async processQueue (/Users/catalin/docu/kb/node_modules/image-size/dist/fromFile.cjs:1047:3)
+[WARNING] The image at "/Users/catalin/docu/kb/static/kb-assets/942f53127e-dr-orchestration.mp4" can't be read correctly. Please ensure it's a valid image.
+unsupported file type: undefined
+TypeError: unsupported file type: undefined
+    at imageSize (/Users/catalin/docu/kb/node_modules/image-size/dist/fromFile.cjs:1013:9)
+    at /Users/catalin/docu/kb/node_modules/image-size/dist/fromFile.cjs:1040:16
+    at async Promise.allSettled (index 0)
+    at async processQueue (/Users/catalin/docu/kb/node_modules/image-size/dist/fromFile.cjs:1047:3)
+[WARNING] The image at "/Users/catalin/docu/kb/static/kb-assets/50bf14af55-screen-recording-2024-07-09-at-10-49-45.mov" can't be read correctly. Please ensure it's a valid image.
+unsupported file type: undefined
+TypeError: unsupported file type: undefined
+    at imageSize (/Users/catalin/docu/kb/node_modules/image-size/dist/fromFile.cjs:1013:9)
+    at /Users/catalin/docu/kb/node_modules/image-size/dist/fromFile.cjs:1040:16
+    at async Promise.allSettled (index 0)
+    at async processQueue (/Users/catalin/docu/kb/node_modules/image-size/dist/fromFile.cjs:1047:3)
+[WARNING] The image at "/Users/catalin/docu/kb/static/kb-assets/50bf14af55-screen-recording-2024-07-09-at-10-49-45.mov" can't be read correctly. Please ensure it's a valid image.
+unsupported file type: undefined
+TypeError: unsupported file type: undefined
+    at imageSize (/Users/catalin/docu/kb/node_modules/image-size/dist/fromFile.cjs:1013:9)
+    at /Users/catalin/docu/kb/node_modules/image-size/dist/fromFile.cjs:1040:16
+    at async Promise.allSettled (index 0)
+    at async processQueue (/Users/catalin/docu/kb/node_modules/image-size/dist/fromFile.cjs:1047:3)
+[WARNING] The image at "/Users/catalin/docu/kb/static/kb-assets/4315db7de1-video-2.webm" can't be read correctly. Please ensure it's a valid image.
+unsupported file type: undefined
+TypeError: unsupported file type: undefined
+    at imageSize (/Users/catalin/docu/kb/node_modules/image-size/dist/fromFile.cjs:1013:9)
+    at /Users/catalin/docu/kb/node_modules/image-size/dist/fromFile.cjs:1040:16
+    at async Promise.allSettled (index 0)
+    at async processQueue (/Users/catalin/docu/kb/node_modules/image-size/dist/fromFile.cjs:1047:3)
+[WARNING] The image at "/Users/catalin/docu/kb/static/kb-assets/69731aa6a2-veeam-cloud-platform-backup-microsoft-365-video-1-1.webm" can't be read correctly. Please ensure it's a valid image.
+unsupported file type: undefined
+TypeError: unsupported file type: undefined
+    at imageSize (/Users/catalin/docu/kb/node_modules/image-size/dist/fromFile.cjs:1013:9)
+    at /Users/catalin/docu/kb/node_modules/image-size/dist/fromFile.cjs:1040:16
+    at async Promise.allSettled (index 0)
+    at async processQueue (/Users/catalin/docu/kb/node_modules/image-size/dist/fromFile.cjs:1047:3)
+[WARNING] The image at "/Users/catalin/docu/kb/static/kb-assets/01a479ef0e-veeam-cloud-platform-backup-microsoft-365-video-3-1.webm" can't be read correctly. Please ensure it's a valid image.
+unsupported file type: undefined
+TypeError: unsupported file type: undefined
+    at imageSize (/Users/catalin/docu/kb/node_modules/image-size/dist/fromFile.cjs:1013:9)
+    at /Users/catalin/docu/kb/node_modules/image-size/dist/fromFile.cjs:1040:16
+    at async Promise.allSettled (index 0)
+    at async processQueue (/Users/catalin/docu/kb/node_modules/image-size/dist/fromFile.cjs:1047:3)
+[WARNING] The image at "/Users/catalin/docu/kb/static/kb-assets/4315db7de1-video-2.webm" can't be read correctly. Please ensure it's a valid image.
+unsupported file type: undefined
+TypeError: unsupported file type: undefined
+    at imageSize (/Users/catalin/docu/kb/node_modules/image-size/dist/fromFile.cjs:1013:9)
+    at /Users/catalin/docu/kb/node_modules/image-size/dist/fromFile.cjs:1040:16
+    at async Promise.allSettled (index 0)
+    at async processQueue (/Users/catalin/docu/kb/node_modules/image-size/dist/fromFile.cjs:1047:3)
+[WARNING] The image at "/Users/catalin/docu/kb/static/kb-assets/69731aa6a2-veeam-cloud-platform-backup-microsoft-365-video-1-1.webm" can't be read correctly. Please ensure it's a valid image.
+unsupported file type: undefined
+TypeError: unsupported file type: undefined
+    at imageSize (/Users/catalin/docu/kb/node_modules/image-size/dist/fromFile.cjs:1013:9)
+    at /Users/catalin/docu/kb/node_modules/image-size/dist/fromFile.cjs:1040:16
+    at async Promise.allSettled (index 0)
+    at async processQueue (/Users/catalin/docu/kb/node_modules/image-size/dist/fromFile.cjs:1047:3)
+[WARNING] The image at "/Users/catalin/docu/kb/static/kb-assets/01a479ef0e-veeam-cloud-platform-backup-microsoft-365-video-3-1.webm" can't be read correctly. Please ensure it's a valid image.
+unsupported file type: undefined
+[webpackbar] ✔ Server: Compiled with some errors in 6.14s
+[webpackbar] ✔ Client: Compiled with some errors in 9.15s
+[ERROR] Client bundle compiled with errors therefore further build is impossible.
+Module parse failed: Unexpected end of JSON input while parsing empty string
+File was parsed as module type 'json'.
+You may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See https://webpack.js.org/concepts#loaders

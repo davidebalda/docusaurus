@@ -1,0 +1,139 @@
+
+> kb@0.0.0 build
+> docusaurus build
+
+[INFO] [it] Creating an optimized production build...
+[webpackbar] ℹ Compiling Client
+[webpackbar] ℹ Compiling Server
+[webpackbar] ✔ Server: Compiled successfully in 1.35s
+[webpackbar] ✔ Client: Compiled successfully in 1.62s
+[WARNING] Docusaurus found broken anchors!
+
+Please check the pages of your site in the list below, and make sure you don't reference any anchor that does not exist.
+Note: it's possible to ignore broken anchors with the 'onBrokenAnchors' Docusaurus configuration, and let the build pass.
+
+Exhaustive list of all broken anchors found:
+- Broken anchor on source page path = /account-manager/audit-log:
+   -> linking to /partner-portal/clienti#Cliente-Autonomo
+   -> linking to /partner-portal/clienti#Cliente-Gestito
+- Broken anchor on source page path = /account-manager/utenti/:
+   -> linking to /account-manager/utenti/#Reimposta-la-password
+- Broken anchor on source page path = /project-manager/3cx/gestione-del-servizio-3cx/:
+   -> linking to #accedi-a-3cx (resolved as: /project-manager/3cx/gestione-del-servizio-3cx/#accedi-a-3cx)
+   -> linking to /partner-portal/clienti#Accedi-al-dettaglio-Cliente
+- Broken anchor on source page path = /project-manager/3cx/gestione-del-servizio-3cx/3cx-aggiornamento-alla-v20:
+   -> linking to /project-manager/3cx/gestione-del-servizio-3cx/app-3cx#Accedi-al-dettaglio-di-un%E2%80%99APP-3CX
+- Broken anchor on source page path = /project-manager/3cx/gestione-del-servizio-3cx/app-3cx:
+   -> linking to #panoramica (resolved as: /project-manager/3cx/gestione-del-servizio-3cx/app-3cx#panoramica)
+   -> linking to #accedi-a-3cx (resolved as: /project-manager/3cx/gestione-del-servizio-3cx/app-3cx#accedi-a-3cx)
+- Broken anchor on source page path = /project-manager/acronis-cyber-protect-cloud/gestione-del-servizio-acronis-cyber-protect-cloud/:
+   -> linking to #accedi-al-servizio-acronis-cyber-protect-cloud (resolved as: /project-manager/acronis-cyber-protect-cloud/gestione-del-servizio-acronis-cyber-protect-cloud/#accedi-al-servizio-acronis-cyber-protect-cloud)
+   -> linking to #seleziona-la-region-su-cui-attivare-la-funzionalit-acronis-cyber-protect-cloud (resolved as: /project-manager/acronis-cyber-protect-cloud/gestione-del-servizio-acronis-cyber-protect-cloud/#seleziona-la-region-su-cui-attivare-la-funzionalit-acronis-cyber-protect-cloud)
+   -> linking to #attiva-la-funzionalit-cyber-protect-cloud (resolved as: /project-manager/acronis-cyber-protect-cloud/gestione-del-servizio-acronis-cyber-protect-cloud/#attiva-la-funzionalit-cyber-protect-cloud)
+   -> linking to #elimina-la-funzionalit-cyber-backup (resolved as: /project-manager/acronis-cyber-protect-cloud/gestione-del-servizio-acronis-cyber-protect-cloud/#elimina-la-funzionalit-cyber-backup)
+   -> linking to #accedi-al-portale-di-gestione (resolved as: /project-manager/acronis-cyber-protect-cloud/gestione-del-servizio-acronis-cyber-protect-cloud/#accedi-al-portale-di-gestione)
+   -> linking to #ripristina-laccesso-al-portale-di-gestione (resolved as: /project-manager/acronis-cyber-protect-cloud/gestione-del-servizio-acronis-cyber-protect-cloud/#ripristina-laccesso-al-portale-di-gestione)
+   -> linking to #visualizza-le-dashboard (resolved as: /project-manager/acronis-cyber-protect-cloud/gestione-del-servizio-acronis-cyber-protect-cloud/#visualizza-le-dashboard)
+- Broken anchor on source page path = /project-manager/acronis-cyber-protect-cloud/how-to-acronis-cyber-protect-cloud/physical-data-shipping-and-large-scale-recovery-initial-seeding-acronis-cyber-protect-cloud/:
+   -> linking to #come-installare-il-tool-islsr (resolved as: /project-manager/acronis-cyber-protect-cloud/how-to-acronis-cyber-protect-cloud/physical-data-shipping-and-large-scale-recovery-initial-seeding-acronis-cyber-protect-cloud/#come-installare-il-tool-islsr)
+   -> linking to #come-procedere-quando-lupload-terminato (resolved as: /project-manager/acronis-cyber-protect-cloud/how-to-acronis-cyber-protect-cloud/physical-data-shipping-and-large-scale-recovery-initial-seeding-acronis-cyber-protect-cloud/#come-procedere-quando-lupload-terminato)
+- Broken anchor on source page path = /project-manager/acronis-cyber-protect-cloud/primi-passi-acronis-cyber-protect-cloud/funzionalita-security-acronis-cyber-protect-cloud:
+   -> linking to #panoramica (resolved as: /project-manager/acronis-cyber-protect-cloud/primi-passi-acronis-cyber-protect-cloud/funzionalita-security-acronis-cyber-protect-cloud#panoramica)
+   -> linking to #acronis-cyber-protect-cloud-advanced (resolved as: /project-manager/acronis-cyber-protect-cloud/primi-passi-acronis-cyber-protect-cloud/funzionalita-security-acronis-cyber-protect-cloud#acronis-cyber-protect-cloud-advanced)
+   -> linking to #advanced-dpl-data-loss-prevention (resolved as: /project-manager/acronis-cyber-protect-cloud/primi-passi-acronis-cyber-protect-cloud/funzionalita-security-acronis-cyber-protect-cloud#advanced-dpl-data-loss-prevention)
+   -> linking to #advanced-file-sync-share (resolved as: /project-manager/acronis-cyber-protect-cloud/primi-passi-acronis-cyber-protect-cloud/funzionalita-security-acronis-cyber-protect-cloud#advanced-file-sync-share)
+- Broken anchor on source page path = /project-manager/acronis-cyber-protect-cloud/primi-passi-acronis-cyber-protect-cloud/protection-plans-acronis-cyber-protect-cloud:
+   -> linking to #crea-un-protection-plan-guida-passo-passo (resolved as: /project-manager/acronis-cyber-protect-cloud/primi-passi-acronis-cyber-protect-cloud/protection-plans-acronis-cyber-protect-cloud#crea-un-protection-plan-guida-passo-passo)
+- Broken anchor on source page path = /project-manager/cloud-pbx/how-to-cloud-pbx/autoprovisioning:
+   -> linking to #funzionalit-aggiuntive (resolved as: /project-manager/cloud-pbx/how-to-cloud-pbx/autoprovisioning#funzionalit-aggiuntive)
+- Broken anchor on source page path = /project-manager/cloud-pbx/how-to-cloud-pbx/deviazioni-di-chiamata:
+   -> linking to #busy-no-answer-unavailable-forward (resolved as: /project-manager/cloud-pbx/how-to-cloud-pbx/deviazioni-di-chiamata#busy-no-answer-unavailable-forward)
+- Broken anchor on source page path = /project-manager/cloud-pbx/how-to-cloud-pbx/guide-ai-telefoni-supportati/snom-d765-guida-rapida:
+   -> linking to #guida-alle-funzionalit (resolved as: /project-manager/cloud-pbx/how-to-cloud-pbx/guide-ai-telefoni-supportati/snom-d765-guida-rapida#guida-alle-funzionalit)
+- Broken anchor on source page path = /project-manager/cloud-pbx/how-to-cloud-pbx/portale-extension/portale-extension-opzioni-e-funzionalita:
+   -> linking to #sotto-men (resolved as: /project-manager/cloud-pbx/how-to-cloud-pbx/portale-extension/portale-extension-opzioni-e-funzionalita#sotto-men)
+- Broken anchor on source page path = /project-manager/cloud-pbx/how-to-cloud-pbx/portale-extension/portale-extension-voicemail:
+   -> linking to #descrizione-dei-vari-sotto-men (resolved as: /project-manager/cloud-pbx/how-to-cloud-pbx/portale-extension/portale-extension-voicemail#descrizione-dei-vari-sotto-men)
+- Broken anchor on source page path = /project-manager/cloud-pbx/how-to-cloud-pbx/portale-tenant-cloud-pbx/config-2-2/device-autoprovisioning-2-2:
+   -> linking to #funzionalit-aggiuntive (resolved as: /project-manager/cloud-pbx/how-to-cloud-pbx/portale-tenant-cloud-pbx/config-2-2/device-autoprovisioning-2-2#funzionalit-aggiuntive)
+- Broken anchor on source page path = /project-manager/cloud-pbx/how-to-cloud-pbx/portale-tenant-cloud-pbx/feature-list:
+   -> linking to #funzionalit (resolved as: /project-manager/cloud-pbx/how-to-cloud-pbx/portale-tenant-cloud-pbx/feature-list#funzionalit)
+   -> linking to #codice-di-attivazione (resolved as: /project-manager/cloud-pbx/how-to-cloud-pbx/portale-tenant-cloud-pbx/feature-list#codice-di-attivazione)
+   -> linking to #utilizzo (resolved as: /project-manager/cloud-pbx/how-to-cloud-pbx/portale-tenant-cloud-pbx/feature-list#utilizzo)
+- Broken anchor on source page path = /project-manager/cloud-pbx/troubleshoot-cloud-pbx/errori-importazione-rubrica:
+   -> linking to #problema-invalid-file-contents (resolved as: /project-manager/cloud-pbx/troubleshoot-cloud-pbx/errori-importazione-rubrica#problema-invalid-file-contents)
+   -> linking to #problema-invalid-records (resolved as: /project-manager/cloud-pbx/troubleshoot-cloud-pbx/errori-importazione-rubrica#problema-invalid-records)
+- Broken anchor on source page path = /project-manager/drive-4-business/gestione-del-servizio-drive-4-business:
+   -> linking to #accedi-al-servizio-drive-4-business (resolved as: /project-manager/drive-4-business/gestione-del-servizio-drive-4-business#accedi-al-servizio-drive-4-business)
+   -> linking to #attiva-il-servizio (resolved as: /project-manager/drive-4-business/gestione-del-servizio-drive-4-business#attiva-il-servizio)
+   -> linking to #accedi-alla-dashboard-di-drive-4-business (resolved as: /project-manager/drive-4-business/gestione-del-servizio-drive-4-business#accedi-alla-dashboard-di-drive-4-business)
+   -> linking to #reimposta-password-del-servizio-drive-4-business (resolved as: /project-manager/drive-4-business/gestione-del-servizio-drive-4-business#reimposta-password-del-servizio-drive-4-business)
+   -> linking to #disattiva-il-servizio-drive-4-business (resolved as: /project-manager/drive-4-business/gestione-del-servizio-drive-4-business#disattiva-il-servizio-drive-4-business)
+   -> linking to #elimina-il-servizio (resolved as: /project-manager/drive-4-business/gestione-del-servizio-drive-4-business#elimina-il-servizio)
+- Broken anchor on source page path = /project-manager/drive-4-business/troubleshoot-drive-4-business/mac-client-errori-con-fuse-su-mac-osx-high-sierra-e-mojave:
+   -> linking to #errore-sulla-compatibilit (resolved as: /project-manager/drive-4-business/troubleshoot-drive-4-business/mac-client-errori-con-fuse-su-mac-osx-high-sierra-e-mojave#errore-sulla-compatibilit)
+- Broken anchor on source page path = /project-manager/drive-4-business/troubleshoot-drive-4-business/reset-mac-client-cache:
+   -> linking to #guida-passo-passo (resolved as: /project-manager/drive-4-business/troubleshoot-drive-4-business/reset-mac-client-cache#guida-passo-passo)
+- Broken anchor on source page path = /project-manager/email/gestione-del-servizio-email/:
+   -> linking to #accedi-al-servizio-email (resolved as: /project-manager/email/gestione-del-servizio-email/#accedi-al-servizio-email)
+   -> linking to #attiva-il-servizio-email (resolved as: /project-manager/email/gestione-del-servizio-email/#attiva-il-servizio-email)
+   -> linking to #disattiva-il-servizio (resolved as: /project-manager/email/gestione-del-servizio-email/#disattiva-il-servizio)
+   -> linking to #riattiva-il-servizio (resolved as: /project-manager/email/gestione-del-servizio-email/#riattiva-il-servizio)
+   -> linking to #gestione-del-servizio (resolved as: /project-manager/email/gestione-del-servizio-email/#gestione-del-servizio)
+- Broken anchor on source page path = /project-manager/email/gestione-del-servizio-email/gestione-caselle-ed-alias-email:
+   -> linking to /project-manager/email/gestione-del-servizio-email/#Accedi-al-servizio-Email
+   -> linking to #prerequisiti-di-creazione (resolved as: /project-manager/email/gestione-del-servizio-email/gestione-caselle-ed-alias-email#prerequisiti-di-creazione)
+   -> linking to #caselle-email (resolved as: /project-manager/email/gestione-del-servizio-email/gestione-caselle-ed-alias-email#caselle-email)
+   -> linking to #accedi-alla-webmail (resolved as: /project-manager/email/gestione-del-servizio-email/gestione-caselle-ed-alias-email#accedi-alla-webmail)
+   -> linking to #configura-una-casella-email (resolved as: /project-manager/email/gestione-del-servizio-email/gestione-caselle-ed-alias-email#configura-una-casella-email)
+   -> linking to #alias-di-casella-email (resolved as: /project-manager/email/gestione-del-servizio-email/gestione-caselle-ed-alias-email#alias-di-casella-email)
+- Broken anchor on source page path = /project-manager/email/gestione-del-servizio-email/gestione-dei-domini-email:
+   -> linking to /project-manager/email/gestione-del-servizio-email/#Accedi-al-servizio-Email
+   -> linking to #prerequisiti-di-attivazione (resolved as: /project-manager/email/gestione-del-servizio-email/gestione-dei-domini-email#prerequisiti-di-attivazione)
+   -> linking to #domini (resolved as: /project-manager/email/gestione-del-servizio-email/gestione-dei-domini-email#domini)
+   -> linking to #alias-di-dominio (resolved as: /project-manager/email/gestione-del-servizio-email/gestione-dei-domini-email#alias-di-dominio)
+- Broken anchor on source page path = /project-manager/email/gestione-del-servizio-email/gestione-liste-di-distribuzione-ed-alias-email:
+   -> linking to /project-manager/email/gestione-del-servizio-email/#Accedi-al-servizio-Email
+   -> linking to #prerequisiti-di-creazione (resolved as: /project-manager/email/gestione-del-servizio-email/gestione-liste-di-distribuzione-ed-alias-email#prerequisiti-di-creazione)
+   -> linking to #liste-di-distribuzione (resolved as: /project-manager/email/gestione-del-servizio-email/gestione-liste-di-distribuzione-ed-alias-email#liste-di-distribuzione)
+   -> linking to #alias-di-lista-di-distribuzione (resolved as: /project-manager/email/gestione-del-servizio-email/gestione-liste-di-distribuzione-ed-alias-email#alias-di-lista-di-distribuzione)
+- Broken anchor on source page path = /project-manager/email/how-to-email/utilizzare-outlook-con-qboxmail:
+   -> linking to #introduzione (resolved as: /project-manager/email/how-to-email/utilizzare-outlook-con-qboxmail#introduzione)
+   -> linking to #prerequisiti (resolved as: /project-manager/email/how-to-email/utilizzare-outlook-con-qboxmail#prerequisiti)
+   -> linking to #guida-passo-passo (resolved as: /project-manager/email/how-to-email/utilizzare-outlook-con-qboxmail#guida-passo-passo)
+- Broken anchor on source page path = /project-manager/internet-e-fonia/star-codes-codici-funzione-utenza-sip-no-cloudpbx:
+   -> linking to #call-forking-follow-me (resolved as: /project-manager/internet-e-fonia/star-codes-codici-funzione-utenza-sip-no-cloudpbx#call-forking-follow-me)
+   -> linking to #verificare-o-cancellare-i-vari-inoltri-deviazioni (resolved as: /project-manager/internet-e-fonia/star-codes-codici-funzione-utenza-sip-no-cloudpbx#verificare-o-cancellare-i-vari-inoltri-deviazioni)
+- Broken anchor on source page path = /project-manager/openstack-as-a-service/how-to-openstack-as-a-service/deploy-pbx-yeastar-pse-su-openstack:
+   -> linking to /project-manager/openstack-as-a-service/primi-passi-openstack-as-a-service/gestione-reti-porte-ip-pubblici-router-e-security-group#Definizione-Security-Groups
+- Broken anchor on source page path = /project-manager/openstack-as-a-service/how-to-openstack-as-a-service/recovery-vm-su-openstack-as-a-service-via-acronis-cyber-backup-service:
+   -> linking to #metodo-1-agente-installato-su-nuova-vm (resolved as: /project-manager/openstack-as-a-service/how-to-openstack-as-a-service/recovery-vm-su-openstack-as-a-service-via-acronis-cyber-backup-service#metodo-1-agente-installato-su-nuova-vm)
+   -> linking to #metodo-2-immagine-acronis-universal-restore (resolved as: /project-manager/openstack-as-a-service/how-to-openstack-as-a-service/recovery-vm-su-openstack-as-a-service-via-acronis-cyber-backup-service#metodo-2-immagine-acronis-universal-restore)
+- Broken anchor on source page path = /project-manager/openstack-as-a-service/primi-passi-openstack-as-a-service/cloud-init-utente-con-password-e-configurazioni-aggiuntive:
+   -> linking to #Cloud-Init,utenteconpasswordeconfigurazioniaggiuntive-Abilitarel'accessoinSSHconsoloUsernameePassword (resolved as: /project-manager/openstack-as-a-service/primi-passi-openstack-as-a-service/cloud-init-utente-con-password-e-configurazioni-aggiuntive#Cloud-Init,utenteconpasswordeconfigurazioniaggiuntive-Abilitarel'accessoinSSHconsoloUsernameePassword)
+- Broken anchor on source page path = /project-manager/sip-account/gestione-del-servizio-sip-account/gestione-account-sip/configurazione-trasferimento-di-chiamata:
+   -> linking to /project-manager/sip-account/gestione-del-servizio-sip-account/gestione-account-sip/#Accedi-alla-sezione-Account-SIP
+- Broken anchor on source page path = /project-manager/talky-time-direct-routing/gestione-del-servizio-talky-time-direct-routing/direct-routing-talky-time/dominio-microsoft-teams-talky-time-direct-routing/:
+   -> linking to /project-manager/talky-time-direct-routing/gestione-del-servizio-talky-time-direct-routing/direct-routing-talky-time/dominio-microsoft-teams-talky-time-direct-routing/#Requisiti
+- Broken anchor on source page path = /project-manager/talky-time-direct-routing/gestione-del-servizio-talky-time-direct-routing/disattivazione-talky-time-direct-routing:
+   -> linking to /project-manager/progetti/#Elimina-progetto
+   -> linking to /project-manager/talky-time-direct-routing/gestione-del-servizio-talky-time-direct-routing/direct-routing-talky-time/provider-talky-time/#Accedi-alla-sezione-Provider
+- Broken anchor on source page path = /project-manager/veeam-cloud-platform/disdetta-ed-eliminazione-funzionalita-veeam-cloud-platform:
+   -> linking to #elimina-la-funzionalit-di-cloud-connect (resolved as: /project-manager/veeam-cloud-platform/disdetta-ed-eliminazione-funzionalita-veeam-cloud-platform#elimina-la-funzionalit-di-cloud-connect)
+   -> linking to #elimina-la-funzionalit-di-backup-resources (resolved as: /project-manager/veeam-cloud-platform/disdetta-ed-eliminazione-funzionalita-veeam-cloud-platform#elimina-la-funzionalit-di-backup-resources)
+   -> linking to #disattiva-la-funzionalit-di-accelerazione-wan (resolved as: /project-manager/veeam-cloud-platform/disdetta-ed-eliminazione-funzionalita-veeam-cloud-platform#disattiva-la-funzionalit-di-accelerazione-wan)
+   -> linking to #elimina-la-funzionalit-disaster-recovery (resolved as: /project-manager/veeam-cloud-platform/disdetta-ed-eliminazione-funzionalita-veeam-cloud-platform#elimina-la-funzionalit-disaster-recovery)
+   -> linking to #elimina-backup-microsoft-365 (resolved as: /project-manager/veeam-cloud-platform/disdetta-ed-eliminazione-funzionalita-veeam-cloud-platform#elimina-backup-microsoft-365)
+   -> linking to #revoca-ed-elimina-una-licenza-in-veeam-cloud-platform (resolved as: /project-manager/veeam-cloud-platform/disdetta-ed-eliminazione-funzionalita-veeam-cloud-platform#revoca-ed-elimina-una-licenza-in-veeam-cloud-platform)
+- Broken anchor on source page path = /project-manager/veeam-cloud-platform/gestione-del-servizio-veeam-cloud-platform/cloud-connect-veeam-cloud-platform/:
+   -> linking to /project-manager/veeam-cloud-platform/gestione-del-servizio-veeam-cloud-platform/cloud-connect-veeam-cloud-platform/#Accedi--Cloud-Connect
+- Broken anchor on source page path = /project-manager/veeam-cloud-platform/gestione-del-servizio-veeam-cloud-platform/cloud-connect-veeam-cloud-platform/collegamento-cloud-connect-a-cloudfire-veeam-cloud-platform:
+   -> linking to /project-manager/veeam-cloud-platform/gestione-del-servizio-veeam-cloud-platform/cloud-connect-veeam-cloud-platform/#Accedi-a-Cloud-Connect
+- Broken anchor on source page path = /project-manager/veeam-cloud-platform/gestione-del-servizio-veeam-cloud-platform/impostazioni-veeam-cloud-platform:
+   -> linking to /project-manager/veeam-cloud-platform/gestione-del-servizio-veeam-cloud-platform/#Accedi-al-servizio-Veeam-Cloud-Platform
+- Broken anchor on source page path = /project-manager/veeam-cloud-platform/how-to-veeam-cloud-platform/rescan-service-provider:
+   -> linking to #procedura (resolved as: /project-manager/veeam-cloud-platform/how-to-veeam-cloud-platform/rescan-service-provider#procedura)
+   -> linking to #video (resolved as: /project-manager/veeam-cloud-platform/how-to-veeam-cloud-platform/rescan-service-provider#video)
+
+[SUCCESS] Generated static files in "build".
+[INFO] Use `npm run serve` command to test your build locally.

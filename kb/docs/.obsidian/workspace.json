@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "b9cf3b4c851d272a",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e5fd6597450cd72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30d159752ffa8512",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "account-manager/account/cliente.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "cliente"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e8ac4a106eb797da",
+    "type": "split",
+    "children": [
+      {
+        "id": "0de1114ed05deb7c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7970cfb1094e6c27",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8b8910c141defa60",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "257b272f5f6cb14f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f1c34a99e0d680ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff0ee77cfe353584",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f20f9a1a376927c9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "0efc2abc18547ec8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "2bb90762b690aea7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "19bcb479e4f4c14b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "5ac765eed8e436ab",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "home.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "30d159752ffa8512",
+  "lastOpenFiles": [
+    "home.md",
+    "migration-test2/Registrazione/attachments/image-20230117-101422.png",
+    "migration-test2/Registrazione/attachments/image-20230117-094908.png",
+    "migration-test2/Registrazione/attachments/image-20220907-143454.png",
+    "migration-test2/Registrazione/attachments/image-20220907-142850.png",
+    "migration-test2/Registrazione/attachments/image-20220907-142707.png",
+    "migration-test2/Registrazione/attachments/image-20220907-142613.png",
+    "migration-test2/Registrazione/attachments/image-20220907-142646.png",
+    "migration-test2/Registrazione/attachments/image-20220907-142521.png",
+    "migration-test2/Registrazione/attachments/image-20220907-142159.png",
+    "migration-test2/Registrazione/attachments/image-20220907-142401.png",
+    "migration-test2/Registrazione/attachments",
+    "migration-test2/Registrazione/Crea un nuovo Account/Verifica carte di credito.md",
+    "migration-test2/Registrazione/Crea un nuovo Account",
+    "migration-test2/Registrazione/Accedi ad un Account esistente.md",
+    "migration-test2/Registrazione/Crea un nuovo Account.md",
+    "migration-test2/Project Manager/Progetti.md",
+    "migration-test2/Project Manager/Email/Gestione del servizio - Email/Gestione Liste di distribuzione ed Alias - Email.md",
+    "migration-test2/Project Manager/Email/Gestione del servizio - Email/Gestione dei Domini - Email.md",
+    "migration-test2/Project Manager/Email/Gestione del servizio - Email/attachments",
+    "migration-test2/Project Manager/Email/Gestione del servizio - Email/Gestione Caselle ed Alias - Email.md",
+    "migration-test2/Project Manager/Email/How to - Email/Zimbra Import Export contatti e calendari.md",
+    "migration-test2/Project Manager/Email/How to - Email/Configurazione IMAP su iOS.md",
+    "migration-test2/Project Manager/Email/How to - Email/Utilizzare Outlook con QBoxMail.md",
+    "migration-test2/Project Manager/Email/How to - Email/attachments",
+    "migration-test2/Project Manager/Email/How to - Email/Salvare in un cartella specifica le mail indirizzate ad una Distribution List.md",
+    "migration-test2/Project Manager/Email/How to - Email/Spedire una mail con mittente la Distribution List.md",
+    "migration-test2/Project Manager/Email/How to - Email/Guida base admin Email.md",
+    "migration-test2/Project Manager/Email/How to - Email/Come configurare la posta elettronica di Office365 su dispositivi mobili.md",
+    "migration-test2/Project Manager/Email/How to - Email/Configurazione DNS Email.md",
+    "migration-test2/Project Manager/Email/attachments",
+    "migration-test2/Project Manager/Email/How to - Email.md",
+    "migration-test2/Project Manager/Email/Primi passi - Email.md",
+    "migration-test2/Project Manager/Email/Gestione del servizio - Email",
+    "migration-test2/Project Manager/Email/How to - Email",
+    "migration-test2/Project Manager/Email/Gestione del servizio - Email.md",
+    "migration-test2/Project Manager/Email",
+    "migration-test2/Project Manager/Veeam Cloud Platform.md",
+    "migration-test2/Project Manager/Cloud PBX/Gestione del servizio - Cloud PBX.md",
+    "migration-test2/Project Manager/Cloud PBX/How to - Cloud PBX.md",
+    "migration-test2/Project Manager/Cloud PBX/attachments",
+    "migration-test2/Project Manager/Cloud PBX/How to - Cloud PBX/Guide ai telefoni supportati.md",
+    "migration-test2/Project Manager/Cloud PBX/How to - Cloud PBX/Portale Tenant - Cloud PBX/Timing/attachments/Time_Cond_FC",
+    "migration-test2/Project Manager/Cloud PBX/How to - Cloud PBX/Portale Tenant - Cloud PBX/Timing/Time Condition (2) (2).md",
+    "migration-test2/Project Manager/Cloud PBX/How to - Cloud PBX/Portale Tenant - Cloud PBX/Timing/Shift (2) (2).md",
+    "migration-test2/Project Manager/Cloud PBX/How to - Cloud PBX/Portale Tenant - Cloud PBX/Service (2) (2)/Ring Group (2) (2).md"
+  ]
+}
